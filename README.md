@@ -17,12 +17,12 @@
 
 ### 🚀 About Me
 
-Hi! I'm **Abdellatif Oumansour**, a Master's student in **Management of Information Systems and Intelligent Systems (M2SI)** at [INSEA](https://www.insea.ac.ma/), Rabat, Morocco.
+Hi! I'm **Abdellatif Oumansour**, a Master's student in **Masster of Information Systems and Intelligent Systems (M2SI)** at [INSEA](https://www.insea.ac.ma/), Rabat, Morocco.
 
-I'm passionate about designing and developing **full-stack applications, data engineering pipelines, and AI-powered solutions**. I enjoy transforming complex problems and raw data into practical, scalable, and intelligent systems.
+I'm passionate about designing and developing ** data science ,data engineering pipelines, and AI-powered solutions**. I enjoy transforming complex problems and raw data into practical, scalable, and intelligent systems.
 
 - 🎓 Studying **M2SI at INSEA, Rabat**
-- 💻 Interested in **Software Engineering, Full Stack Development, and System Design**
+- 💻 Interested in **Software Engineering, and System Design**
 - 📊 Exploring **Data Engineering, ETL pipelines, Data Warehousing, and Analytics**
 - 🤖 Building **AI applications, RAG systems, and recommendation engines**
 - 🗺️ Interested in data-driven solutions for real-world challenges in Morocco
@@ -36,12 +36,11 @@ I'm passionate about designing and developing **full-stack applications, data en
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 #### 🌐 Web Development
@@ -164,17 +163,9 @@ I'm passionate about designing and developing **full-stack applications, data en
   <img src="https://streak-stats.demolab.com?user=oumansour1024&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Contribution Streak" />
 </p>
 
-### 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oumansour1024&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="GitHub Activity Graph" />
-</p>
 
-### 💭 Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
-</p>
 
 ### 🔗 Connect With Me
 
@@ -182,10 +173,10 @@ I'm passionate about designing and developing **full-stack applications, data en
   <a href="https://github.com/oumansour1024">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/abdellatifoumansour" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:af.oumansour@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
