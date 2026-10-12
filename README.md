@@ -1,5 +1,5 @@
  <p align="center">
-  <a href="https://github.com/Abdellatif1011">
+  <a href="https://github.com/oumansour1024">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=48&height=90&width=900&text=Hi!%20I'm%20Abdellatif%20Oumansour" alt="Hi! I'm Abdellatif Oumansour" />
   </a>
 </p>
@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdellatif1011&style=for-the-badge&color=2ea043" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Abdellatif1011?style=for-the-badge&color=blue&logo=github" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=oumansour1024&style=for-the-badge&color=2ea043" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/oumansour1024?style=for-the-badge&color=blue&logo=github" alt="GitHub followers" />
 </p>
 
 ---
@@ -138,7 +138,7 @@ I'm passionate about designing and developing **full-stack applications, data en
         <strong>Django · PostgreSQL · PostGIS · Bootstrap · Data Visualization</strong>
       </p>
       <p align="center">
-        <a href="https://github.com/Abdellatif1011/sd_kech">View Repository</a>
+        <a href="https://github.com/oumansour1024/sd_kech">View Repository</a>
       </p>
     </td>
     <td width="50%">
@@ -156,18 +156,18 @@ I'm passionate about designing and developing **full-stack applications, data en
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdellatif1011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellatif1011&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oumansour1024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumansour1024&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdellatif1011&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=oumansour1024&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Contribution Streak" />
 </p>
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdellatif1011&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oumansour1024&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="GitHub Activity Graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -179,7 +179,7 @@ I'm passionate about designing and developing **full-stack applications, data en
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Abdellatif1011">
+  <a href="https://github.com/oumansour1024">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
