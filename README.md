@@ -136,9 +136,6 @@ I'm passionate about designing and developing ** data science ,data engineering 
       <p align="center">
         <strong>Django · PostgreSQL · PostGIS · Bootstrap · Data Visualization</strong>
       </p>
-      <p align="center">
-        <a href="https://github.com/oumansour1024/sd_kech">View Repository</a>
-      </p>
     </td>
     <td width="50%">
       <h3 align="center">🔧 Repair Management System</h3>
